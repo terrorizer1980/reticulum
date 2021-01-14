@@ -31,6 +31,8 @@
 <meta name="msapplication-starturl" content="/">
 <link rel="apple-touch-icon" href="/app-icon.png">
 
+<!-- bp-temp meta -->
+
 <title><%= @translations["app-name"] %> - <%= @translations["app-tagline"] %></title>
 <%= @app_config_script %>
 <%= @extra_html %>
